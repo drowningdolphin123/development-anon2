@@ -1,7 +1,8 @@
 # Development
 
 ### Link to Deployed Website
-`https://drowningdolphin123.github.io/development`
+`https://drowningdolphin123.github.io/development-anon2
+(Sorry, had some issues where my personal account was logged in on VScode and had to figure out how to make anonymous!)
 
 ### Goal and Value of the Application
 The goal of this application was to provide Club Penguin enthusiasts an easy way to add food from 
